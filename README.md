@@ -1,6 +1,6 @@
 # Customer Management Service API 🧾
 
-API for managing client data as part of the technical challenge for the FADESP (Foundation for the Support and Development of Research). This API provides a set of endpoints, allowing users to:
+API for managing client data as part of the technical challenge for the DXC. This API provides a set of endpoints, allowing users to:
 
 1. Retrieve all clients.
 2. Retrieve a client by ID.
